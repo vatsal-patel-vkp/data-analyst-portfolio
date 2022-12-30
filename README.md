@@ -10,6 +10,6 @@ In the marketing analysis I have done several projects where I have perform the 
 Below is the numbers of project which I have done and there link of the project where it direct you to the project in which detail explanation of the project is given.
 ##### 1. Churn Prediction Analysis on Telecommunication :https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis
 ##### 2. Customer Segmentation on App Usage:https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Customer_segmentation 
-
+##### 3. Mobile Apps Behvioural Analysis: https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Mobile_Apps_Behaviour_Analysis
 
 
