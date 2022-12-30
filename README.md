@@ -7,6 +7,7 @@ Tips: For data science projects with python, I would recomend you to install num
 
 # Project Based on Marketing Analysis:
 ### Churn Prediction Analysis on Telecommunication :https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis
-In this project 
+
+  #### Purpose: In this project I have perform the churn prediction analysis of the Telecommunication company where I have to analyzed the customer who are at risk or they are goinf to stop the services.
 
 
