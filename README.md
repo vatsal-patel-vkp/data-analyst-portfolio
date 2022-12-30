@@ -6,7 +6,9 @@ My preparation for a future as a data analyst comes from the data analytic curri
 Tips: For data science projects with python, I would recomend you to install numpy , pandas , scipy , scikit learn , matplotlib , seaborn thest basic libraries.
 
 # Project Based on Marketing Analysis:
-### Churn Prediction Analysis on Telecommunication :https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis
+In the marketing analysis I have done several projects where I have perform the churn prection analysis, customer segementation analysis, sentimnetal analysis using Natural language processing and done some analysis on the customer behviour and product behviour. 
+Below is the numbers of project which I have done and there link of the project where it direct you to the project in which detail explanation of the project is given.
+##### 1. Churn Prediction Analysis on Telecommunication :https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis
 
 
 
