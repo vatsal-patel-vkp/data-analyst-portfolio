@@ -11,9 +11,41 @@ In this section I will list data analytics projects briefly describing the techn
 In the marketing analysis I have done several projects where I have perform the churn prection analysis, customer segementation analysis, sentimnetal analysis using Natural language processing and done some analysis on the customer behviour and product behviour. 
 Below is the numbers of project which I have done and there link of the project where it direct you to the project in which detail explanation of the project is given.
 
-##### 1. Churn Prediction Analysis on Telecommunication :https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis
+#### Churn Prediction Analysis on Telecommunication :https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis
+##### Code:
+##### Description:
+##### Skills: 
+##### Technology:
+##### Result:
+
 ##### 2. Customer Segmentation on App Usage:https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Customer_segmentation 
+##### Code:
+##### Description:
+##### Skills: 
+##### Technology:
+##### Result:
+
 ##### 3. Mobile Apps Behvioural Analysis: https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Mobile_Apps_Behaviour_Analysis
+##### Code:
+##### Description:
+##### Skills: 
+##### Technology:
+##### Result:
 ##### 4. Product and Customer Analysis on Online Retail: https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Product_and_Customer_Analysis
+##### Code:
+##### Description:
+##### Skills: 
+##### Technology:
+##### Result:
 ##### 5. Twitter Sentimental Analysis:https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Twitter_Sentimental_Analysis
+##### Code:
+##### Description:
+##### Skills: 
+##### Technology:
+##### Result:
 ##### 6. Amazon Phone Review Sentimental Analysis:https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Amazon_Phone_Review_Sentimental_Analysis
+##### Code:
+##### Description:
+##### Skills: 
+##### Technology:
+##### Result:
