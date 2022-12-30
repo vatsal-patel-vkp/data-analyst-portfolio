@@ -9,6 +9,6 @@ Tips: For data science projects with python, I would recomend you to install num
 ### Churn Prediction Analysis on Telecommunication :https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis
 
 #### Purpose: 
-In this project I have perform the churn prediction analysis of the Telecommunication company where I have to analyzed the customer who are at risk or they are goinf to stop the services.
+In this project I have perform the churn prediction analysis of the Telecommunication company where I have to analyzed the customer who are at risk or they are going to stop the services.
 
 
