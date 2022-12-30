@@ -13,4 +13,4 @@ Below is the numbers of project which I have done and there link of the project 
 ##### 3. Mobile Apps Behvioural Analysis: https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Mobile_Apps_Behaviour_Analysis
 ##### 4. Product and Customer Analysis on Online Retail: https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Product_and_Customer_Analysis
 ##### 5. Twitter Sentimental Analysis:https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Twitter_Sentimental_Analysis
-##### 6. Amazon Phone Review Sentimental Analysis:
+##### 6. Amazon Phone Review Sentimental Analysis:https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Amazon_Phone_Review_Sentimental_Analysis
