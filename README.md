@@ -11,5 +11,6 @@ Below is the numbers of project which I have done and there link of the project 
 ##### 1. Churn Prediction Analysis on Telecommunication :https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis
 ##### 2. Customer Segmentation on App Usage:https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Customer_segmentation 
 ##### 3. Mobile Apps Behvioural Analysis: https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Mobile_Apps_Behaviour_Analysis
-
-
+##### 4. Product and Customer Analysis on Online Retail: https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Product_and_Customer_Analysis
+##### 5. Twitter Sentimental Analysis:
+##### 6. Amazon Phone Review Sentimental Analysis:
