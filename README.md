@@ -30,10 +30,14 @@ The dataset contains 541909 instances with 8 feature of the sales dataset. The d
 #### Mobile Apps Behvioural Analysis
 ##### Code:
 ##### Description:
-##### Skills: 
-##### Technology:
-##### Result:
-##### Product and Customer Analysis on Online Retail
+The dataset contians the 50000 records with 12 features of Mobile App data. Here in this dataset our dependent variable is 'Enrolled' which plays important factor in this project. Based on the this features i can analyze the number of user who enrolled in the mobile app with respect to factors like age, numscreen, minigame, premium feature.e project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), feature engineering.
+##### Skills: data cleaning, data preprocessing, data insights, data visualization, Feature Engineering, Model Building, Feature Scaling.
+##### Models: Logistic Regression 
+##### Performance Measure: Confusion Matrix, Accuracy, Precision, Recall and F1 score.
+##### Technology:Python, Pandas, Numpy, Scipy, Seaborn, Matplotlib
+##### Result: Based on the insights the  
+
+#### Product and Customer Analysis on Online Retail
 ##### Code:
 ##### Description:
 ##### Skills: 
