@@ -61,14 +61,23 @@ Below is the numbers of project which I have done and there link of the project 
 
 ## Twitter Tweets Sentimental Analysis
 **Code:**
+
 **Description:**
+
 **Skills:** 
+
 **Technology:**
+
 **Result:**
 
 ## Amazon Phone Review Sentimental Analysis
 **Code:**
+
+
 **Description:**
+
 **Skills:** 
+
 **Technology:**
+
 **Result:**
