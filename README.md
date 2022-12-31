@@ -7,7 +7,7 @@ Tips: For data science projects with python, I would recomend you to install num
 
 # Portfolio Projects:
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
-### Projects based on Marketing Analysis 
+# Projects based on Marketing Analysis 
 In the marketing analysis I have done several projects where I have perform the churn prection analysis, customer segementation analysis, sentimnetal analysis using Natural language processing and done some analysis on the customer behviour and product behviour. 
 Below is the numbers of project which I have done and there link of the project where it direct you to the project in which detail explanation of the project is given.
 
