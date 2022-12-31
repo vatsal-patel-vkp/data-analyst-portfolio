@@ -13,9 +13,13 @@ Below is the numbers of project which I have done and there link of the project 
 
 ## Churn Prediction Analysis on Telecommunication
 **Code:**[Project_Churn_Prediction_Analysis.ipynb](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis/Project_Churn_Prediction_Analysis.ipynb)
+
 **Description:** The dataset contains 7043 instances with 21 features. There is list of features have been shown in the python file. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing customer churn rate based on the several factors related with the features.)
+
 **Skills:** Data cleaning, Data preprocessing, Data analysis, Data visualization.
+
 **Technology:** Python, Pandas, Numpy, Scipy, Seaborn, Matplotlib.
+
 **Result:** The feature in which company has to target to reduce the churn and based on that the necessaru recommendation is given to company.
 
 ## Customer Segmentation on App Usage
