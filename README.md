@@ -19,7 +19,7 @@ The dataset contains 7043 instances with 21 features. There is list of features 
 ##### Technology:Python, Pandas, Numpy, Scipy, Seaborn, Matplotlib.
 ##### Result:The feature in which company has to target to reduce the churn and based on that the necessaru recommendation is given to company.
 
-##### 2. Customer Segmentation on App Usage
+##### Customer Segmentation on App Usage
 ##### Code:
 ##### Description:
 The dataset contains 541909 instances with 8 feature of the sales dataset. The dataset is above the different groups of customer who used to purchased the product or services. So here in this project I have perform segmentation on different group of people using RFM and I can able to segement those customer who are loyal, who are more likely to stop the services. The detailed explanation is given in the python file.
@@ -27,25 +27,25 @@ The dataset contains 541909 instances with 8 feature of the sales dataset. The d
 ##### Technology:Python, Pandas, Numpy, Scipy, Seaborn, Matplotlib, machine learning models like k-means clustering 
 ##### Result: Recency, Frequnecy and Monetary(RFM) is being perform and several graphs plotted to get insights of the data which reccommnedation is given
 
-##### 3. Mobile Apps Behvioural Analysis: https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Mobile_Apps_Behaviour_Analysis
+##### Mobile Apps Behvioural Analysis: https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Mobile_Apps_Behaviour_Analysis
 ##### Code:
 ##### Description:
 ##### Skills: 
 ##### Technology:
 ##### Result:
-##### 4. Product and Customer Analysis on Online Retail: https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Product_and_Customer_Analysis
+##### Product and Customer Analysis on Online Retail: https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Product_and_Customer_Analysis
 ##### Code:
 ##### Description:
 ##### Skills: 
 ##### Technology:
 ##### Result:
-##### 5. Twitter Sentimental Analysis:https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Twitter_Sentimental_Analysis
+##### Twitter Sentimental Analysis:https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Twitter_Sentimental_Analysis
 ##### Code:
 ##### Description:
 ##### Skills: 
 ##### Technology:
 ##### Result:
-##### 6. Amazon Phone Review Sentimental Analysis:https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Amazon_Phone_Review_Sentimental_Analysis
+##### Amazon Phone Review Sentimental Analysis:https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Amazon_Phone_Review_Sentimental_Analysis
 ##### Code:
 ##### Description:
 ##### Skills: 
