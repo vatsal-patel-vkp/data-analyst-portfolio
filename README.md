@@ -12,7 +12,7 @@ In the marketing analysis I have done several projects where I have perform the 
 Below is the numbers of project which I have done and there link of the project where it direct you to the project in which detail explanation of the project is given.
 
 #### Churn Prediction Analysis on Telecommunication
-##### Code:https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis/Project_Churn_Prediction_Analysis.ipynb
+##### Code:[Project_Churn_Prediction_Analysis.ipynb]https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis/Project_Churn_Prediction_Analysis.ipynb
 ##### Description: [The dataset contains 7043 instances with 21 features. There is list of features have been shown in the python file. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing customer churn rate based on the several factors related with the features.]
 ##### Skills:
 Data cleaning, Data preprocessing, Data analysis, Data visualization.
