@@ -67,7 +67,9 @@ Below is the numbers of project which I have done and there link of the project 
 **Skills:**  Data cleaning, Data preprocessing, Data insights, Data visualization, Feature Engineering, Model Building, Feature Extraction,Term frequency-inverse document frequency (TF-IDF).
 
 **Technology:** Python, Pandas, Numpy, Scipy, Seaborn, Matplotlib, Nltk, nltk.stopwors, corpus, importing models, TF-IDF Vectorizer.
+
 **Models:** Naive Bayes Model, KNN, Support Vector Machine, Decision Tree Model and Random Forest.
+
 **Result:** In this project, two features are more important than other and this two features are text and airline_sentiment. Firstly, I have used the stopwords on the comments which eliminate the commomn english words from the comments. Corpus was created which is the collection of the words and I have perform feature extraction method like **Count Vectorizer** and **TF-IDF Vectortizer** before the sentiment is encoded using label encoder. After I have tested this all models with both vectoizer and able compare the best model which proves the findings are correct.
 
 ## Amazon Phone Review Sentimental Analysis
