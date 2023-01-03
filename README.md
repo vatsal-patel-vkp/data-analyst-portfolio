@@ -48,17 +48,6 @@ Below is the numbers of project which I have done and there link of the project 
 
 **Result:** Based on the insights it states the specfics groups of user who used the mobile app like younger age customers likley to be enrolled, customer who use to play minigames are more likley to enrolled, which customer going to be enrolled in the last hours of the day as well as for the last day of the week. It also gives information about customer like the app or not based it gives customer are more or less likely to be enrolled. So both the positive and negative about the features in which several reccommendtaion is given based on the negative features.
 
-## Product and Customer Analysis on Online Retail
-**Code:**
-
-**Description:** The dataset contians the 541909 records with 8 features of Online Retail data. Here in this dataset our dependent variable is 'Enrolled' which plays important factor in this project. Based on the this features i can analyze the number of user who enrolled in the mobile app with respect to factors like age, numscreen, minigame, premium feature. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), feature engineering.
-
-**Skills:** 
-
-**Technology:**
-
-**Result:**
-
 ## Twitter Airline Tweets Sentimental Analysis
 **Code:**[Project-Twitter-Tweets-Sentimental-Analysis.ipynb](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Marketing_Analysis/Twitter_Sentimental_Analysis/Project-Twitter-Tweets-Sentimental-Analysis.ipynb)
 
