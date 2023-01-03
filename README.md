@@ -60,7 +60,7 @@ Below is the numbers of project which I have done and there link of the project 
 **Result:**
 
 ## Twitter Airline Tweets Sentimental Analysis
-**Code:**
+**Code:**[Project-Twitter-Tweets-Sentimental-Analysis.ipynb](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Marketing_Analysis/Twitter_Sentimental_Analysis/Project-Twitter-Tweets-Sentimental-Analysis.ipynb)
 
 **Description:** The dataset contians the 14640 records with 15 features of twitter data.The data is about the passenger who commented the airline with their services via tweets on twitter. In this airline like US Airways, America, Southwest, Delta, Virgin America, United and US Airways. To identify the emotion of the customer regarding airlines in this sentimental analysis was  implemented. In this data the sentiment of the tweets is given as airline_sentiment like positive, negative and neutral.The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), plotting graphs like pie-charts, histogram,  Converting sentiments into binary,Models Implementation, Feature Extraction.
 
