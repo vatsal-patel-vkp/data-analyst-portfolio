@@ -34,7 +34,7 @@ Below is the numbers of project which I have done and there link of the project 
 **Result:** Recency, Frequnecy and Monetary(RFM) is being perform and several graphs plotted to get insights of the data which recommendation is given.
 
 ## Mobile Apps Behvioural Analysis
-**Code:**
+**Code:**[Project-Mobile-App-Behavour-Analysis.ipynb](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Marketing_Analysis/Mobile_Apps_Behaviour_Analysis/Project-Mobile-App-Behavour-Analysis.ipynb)
 
 **Description:** The dataset contians the 50000 records with 12 features of Mobile App data. Here in this dataset our dependent variable is 'Enrolled' which plays important factor in this project. Based on the this features i can analyze the number of user who enrolled in the mobile app with respect to factors like age, numscreen, minigame, premium feature.e project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), feature engineering.
 
