@@ -11,6 +11,7 @@ In this section I will list data analytics projects briefly describing the techn
 In the marketing analysis I have done several projects where I have perform the churn prection analysis, customer segementation analysis, sentimnetal analysis using Natural language processing and done some analysis on the customer behviour and product behviour. 
 Below is the numbers of project which I have done and there link of the project where it direct you to the project in which detail explanation of the project is given.
 
+*All detail explanation of the project with respect to code and necessary recommendaions is given in the python file which link is provided in each sectio.*
 ## Churn Prediction Analysis on Telecommunication
 **Code:**[Project_Churn_Prediction_Analysis.ipynb](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis/Project_Churn_Prediction_Analysis.ipynb)
 
@@ -65,12 +66,13 @@ Below is the numbers of project which I have done and there link of the project 
 **Code:**[Project-Amazon-Phone-Review-Sentimental-Analysis.ipynb](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Marketing_Analysis/Amazon_Phone_Review_Sentimental_Analysis/Project-Amazon-Phone-Review-Sentimental-Analysis.ipynb])
 
 
-**Description:** The dataset is about the amazon review 
+**Description:** The dataset is about the amazon reviews on phone companies and customer review these phone brands such as Samsung, Apple, Motorola and many other phone brands in the python file with an explanation is given. In this project there two dataset which I have merged them together. The purpose of this project is to sentimental analysis of the comments on this phone brands and to find most posiive and negative comments about this phone brands based on this I have given my recommendation. I  have also identify the question based on the data and able to find companies with highest and lowest ratings.he project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), plotting graphs like histogram, word cloud,  Converting sentiments into binary,Models Implementation, Feature Extraction.
 
-**Skills:** 
+**Skills:**  Data cleaning, Data preprocessing, Data insights, Data visualization, Feature Engineering, Model Building, Feature Extraction,Term frequency-inverse document frequency (TF-IDF).
 
-**Technology:**
+**Technology:** Python, Pandas, Numpy, Scipy, Seaborn, Matplotlib, Nltk, nltk.stopwors, corpus, importing models, TF-IDF Vectorizer.
 
-**Result:**
+**Result:** n this project, two features are more important than other and this two features are text and airline_sentiment. Firstly, I have used the stopwords on the comments which eliminate the commomn english words from the comments. Corpus was created which is the collection of the words and I have perform feature extraction method like **TF-IDF Vectortizer** before the sentiment is encoded using label encoder. After I have tested this all models with both vectoizer and able compare the best model which proves the findings are correct.
+
 
 # Projects based on Healthcare Analysis 
