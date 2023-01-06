@@ -11,7 +11,7 @@ In this section I will list data analytics projects briefly describing the techn
 In the marketing analysis I have done several projects where I have perform the churn prection analysis, customer segementation analysis, sentimnetal analysis using Natural language processing and done some analysis on the customer behviour and product behviour. 
 Below is the numbers of project which I have done and there link of the project where it direct you to the project in which detail explanation of the project is given.
 
-***All detail explanation of the project with respect to code and necessary recommendaions is given in the python file which link is provided in each sectio.***
+***All detail explanation of the project with respect to code and necessary recommendaions is given in the python file which link is provided in each section.***
 ## Churn Prediction Analysis on Telecommunication
 **Code:**[Project_Churn_Prediction_Analysis.ipynb](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis/Project_Churn_Prediction_Analysis.ipynb)
 
