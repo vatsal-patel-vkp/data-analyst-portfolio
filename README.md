@@ -78,9 +78,14 @@ Below is the numbers of project which I have done and there link of the project 
 
 
 # Projects based on Healthcare Analysis 
-**Tableau Public**
-**Power Point Presentation**
-**Description**
-**Skills**
-**Technology**
-**Result**
+**Tableau Public:**
+
+**Power Point Presentation:**
+
+**Description:**
+
+**Skills:**
+
+**Technology:**
+
+**Result:**
