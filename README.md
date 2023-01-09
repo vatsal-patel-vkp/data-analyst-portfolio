@@ -94,4 +94,4 @@ Below is the numbers of project which I have done and there link of the project 
 
 **Technology:** Tableau
 
-**Result:** created an analytical dashboards that shows the trends of the wait time procedure across canada and necessary recommdedation is given.
+**Result:** created an analytical dashboards that shows the trends of the wait time procedure across canada and necessary recommendation is given.
