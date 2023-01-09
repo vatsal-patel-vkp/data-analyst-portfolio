@@ -84,9 +84,10 @@ Below is the numbers of project which I have done and there link of the project 
 **Power Point Presentation:**
 
 **Description:** The project mainly focused in the healtcare area specifically in this project our purpose to do analysis on the wait time procedures for the patients in canada with respect to  various treatments and cases by provinces of canada. From the data on the wait time procedures of Canada from the year 2008 to 2021, we want to classify them into two groups, pre-pandemic and post-pandemic to have more insights about the change or improvement in wait time. These are the milestones we wish to achieve:  We aim to analyze waiting times (in days) at the hospital by province with respect to pre-pandemic and post-pandemic. ·We aim to analyze and see trends in the number of cases of specific treatment by top province-wise before COVID-19 and after COVID-19. Looking to improve the waiting time for cancer treatment, and cardiac treatment, diagnostic imaging, joint replacement at the hospital by interpreting the behavior of the data and representing it in a visualization to provide solutions for it.
+
 *** The more details about the dataset and project is given in the project proposal and presentation as well. ***
 
-**Skills:** requirements capture, designing an analytical dashboard, product delivery
+**Skills:** requirements gathering, designing an analytical dashboard, analysing trends of the data
 
 **Technology:** Tableau
 
