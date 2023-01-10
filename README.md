@@ -7,7 +7,7 @@ My preparation for a future as a data analyst comes from the data analytic curri
 Tips: For data science projects with python, I would recomend you to install numpy , pandas , scipy , scikit learn , matplotlib , seaborn thest basic libraries.
 
 ## Table of Contents
-- About
+- [About](#About)
 
 # Portfolio Projects:
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
