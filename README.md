@@ -11,7 +11,7 @@ Tips: For data science projects with python, I would recomend you to install num
 - [Portfolio Projects](#Portfolio Projects)
     - [Projects based on Marketing Analysis](#Projects based on Marketing Analysis)
 
-# Portfolio Projects:
+# Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 # Projects based on Marketing Analysis 
