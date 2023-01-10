@@ -8,7 +8,8 @@ Tips: For data science projects with python, I would recomend you to install num
 
 ## Table of Contents
 - [About](#About)
-- [Portfolio_Projects](#Portfolio_Projects)
+- [Portfolio Projects](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#portfolio-projects)
+    -[Projects based on Marketing Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#portfolio-projects)
   
 # Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
