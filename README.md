@@ -10,10 +10,9 @@ Tips: For data science projects with python, I would recomend you to install num
 - [About](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#portfolio-projects)
   - [Projects based on Marketing Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#portfolio-projects)
-    - [Customer Segmentation on App Usage](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#portfolio-projects)
+    - [Churn Prediction Analysis on Telecommunication](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#churn-prediction-analysis-on-telecommunication)
+    - [Customer Segmentation on App Usage]([https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#portfolio-projects]    
     - [Mobile Apps Behvioural Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#portfolio-projects)
-    - [Churn Prediction Analysis on Telecommunication](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#portfolio-projects)
-    - [Churn Prediction Analysis on Telecommunication](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#portfolio-projects)
     - [Twitter Airline Tweets Sentimental Analysis]()
     - [Amazon Phone Review Sentimental Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#portfolio-projects)
   - [Projects based on Healthcare Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#portfolio-projects)
