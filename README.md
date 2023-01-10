@@ -8,6 +8,7 @@ Tips: For data science projects with python, I would recomend you to install num
 
 ## Table of Contents
 - [About](#About)
+- [Portfolio_Projects](#Portfolio_Projects)
   
 # Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
