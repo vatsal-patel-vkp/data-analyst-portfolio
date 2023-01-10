@@ -9,7 +9,7 @@ Tips: For data science projects with python, I would recomend you to install num
 ## Table of Contents
 - [About](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#portfolio-projects)
-  - [Projects based on Marketing Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#Projects-based-on-Marketing Analysis)
+  - [Projects based on Marketing Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#projects-based-on-marketing-analysis)
     - [Churn Prediction Analysis on Telecommunication](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#churn-prediction-analysis-on-telecommunication)
     - [Customer Segmentation on App Usage](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#customer-segmentation-on-app-usage)    
     - [Mobile Apps Behvioural Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#mobile-apps-behvioural-analysis)
