@@ -18,7 +18,7 @@ Tips: For data science projects with python, I would recomend you to install num
   - [Projects based on Healthcare Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#projects-based-on-healthcare-analysis)
   
 # Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+I will quickly describe each data analytics project in this part, along with the technology stack that was utilised to resolve the issues.
 
 # Projects based on Marketing Analysis 
 In the marketing analysis I have done several projects where I have perform the churn prection analysis, customer segementation analysis, sentimnetal analysis using Natural language processing and done some analysis on the customer behviour and product behviour. 
