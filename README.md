@@ -1,4 +1,4 @@
-# Data Analysis Portfolio
+# Data Analysis Portfolio - Devkumar Patel
 ## About
 This repository is mainly for projects I have done under during my post graduation in Data Analytic for Business.
 
