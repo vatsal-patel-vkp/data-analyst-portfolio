@@ -16,6 +16,7 @@ Tips: For data science projects with python, I would recomend you to install num
     - [Twitter Airline Tweets Sentimental Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#twitter-airline-tweets-sentimental-analysis)
     - [Amazon Phone Review Sentimental Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#amazon-phone-review-sentimental-analysis)
   - [Projects based on Healthcare Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#projects-based-on-healthcare-analysis)
+  - [Projects based on Hotel Booking Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#projects-based-on-healthcare-analysis)
   
 # Portfolio Projects
 I will quickly describe each data analytics project in this part, along with the technology stack that was utilised to resolve the issues.
