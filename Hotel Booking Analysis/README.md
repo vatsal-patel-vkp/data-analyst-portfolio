@@ -103,7 +103,12 @@ This data set contains booking information for a city hotel and a resort hotel, 
  - Here is_cancelled = 0 means guest don't required parking and is_cancelled = 1 means parking required.
         
    #### Observation
-   - For city hotels and resort hotels majority of the guest did not reqired parking space but few required parking space.
+ - For city hotels and resort hotels majority of the guest did not reqired parking space but few required parking space.
+
+#### 5 Which Hotels has the most repeated guests?
+- City Hotel has slightly more repeated guests than the Resort Hotels. 
+
+
    
 
        
