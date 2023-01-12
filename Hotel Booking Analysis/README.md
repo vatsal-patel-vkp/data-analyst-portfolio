@@ -105,9 +105,13 @@ This data set contains booking information for a city hotel and a resort hotel, 
    #### Observation
  - For city hotels and resort hotels majority of the guest did not reqired parking space but few required parking space.
 
-#### 5 Which Hotels has the most repeated guests?
-- City Hotel has slightly more repeated guests than the Resort Hotels. 
+#### 5) Which Hotels has the most repeated guests?
+- City Hotel has slightly more repeated guests than the Resort Hotels.
 
+#### 6) Which year has the most booking cancelled or most booking cancelled ?
+- Year 2015 had the highest booking cancelled compare to guest who did not cancelled their bookings.
+- There was signigicant dropped in the cancellation of the booking in the year 2016 while the more booking was done which was highest among year 2015 and 2017.
+- In the year 2017 there was continously dropped in the booking cancellation however there slight declined in the booking which was not cancelled after the year 2016.
 
    
 
