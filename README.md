@@ -115,7 +115,7 @@ Below is the numbers of project which I have done and there link of the project 
 **Power BI:** [Project_Hotel_Booking](https://app.powerbi.com/home)
 
 **Description:** Have you ever thought about the best time of year to book a hotel room? Or what is the best length of stay to get the best daily rate? What if you could predict whether or not a hotel would receive an unusually high number of special requests? This hotel booking dataset can assist you in answering those questions!
-This data set contains booking information for a city hotel and a resort hotel, including when the booking was made, length of stay, number of adults, children, and/or babies, and number of available parking spaces, among other things. The data contains no personally identifiable information.
+This data set contains booking information for a city hotel and a resort hotel, including when the booking was made, length of stay, number of adults, children, and/or babies, and number of available parking spaces, among other things. The data contains no personally identifiable information. The detail explanation is shown here : [go to project](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Hotel%20Booking%20Analysis)
 
 **Skills:** requirements gathering, designing an analytical dashboard, analysing trends of the data
 
