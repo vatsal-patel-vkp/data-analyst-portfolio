@@ -77,3 +77,22 @@ This data set contains booking information for a city hotel and a resort hotel, 
 
 **reservation_status_date:** Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking canceled or when did the customer checked-out of the hotel
 
+## EDA (Exploratory Data Analysis)
+**Univariate Analysis**
+
+### 1) Which type of hotel is in the dataset?
+       Two types : City Hotel and Resort Hotel.
+       
+### 2) In which month has the highest bookings/total guest by hotel happened?
+       July and August months had the most Bookings. Summer vaccation can be the reason for the bookings.
+       
+### 3) Which type of food is mostly preferred by the guests?
+        
+      #### Types of meal in hotels:
+      **-BB** - (Bed and Breakfast)
+HB- (Half Board)
+B- (Full Board)
+SC- (Self Catering)
+       
+
+    
