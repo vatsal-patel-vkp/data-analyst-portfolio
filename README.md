@@ -109,3 +109,16 @@ Below is the numbers of project which I have done and there link of the project 
 **Technology:** Tableau
 
 **Result:** created an analytical dashboards that shows the trends of the wait time procedure across canada and necessary recommendation is given.
+
+# Project based on Hotel Booking Analysis
+
+**Power BI:** [Project_Hotel_Booking)(https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Hotel%20Booking%20Analysis/Final%20Project%20100-Group%203.pbix)
+
+**Description:**
+
+**Skills:**
+
+**Technology:**
+
+**Result:**
+
