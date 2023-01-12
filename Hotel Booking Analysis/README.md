@@ -85,9 +85,12 @@ This data set contains booking information for a city hotel and a resort hotel, 
        
 ### 2) In which month has the highest bookings/total guest by hotel happened?
 ![Hotel Booking](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Hotel%20Booking%20Analysis/Screenshots/Powerbi1.jpg)
+    
+   #### Observation
 - July and August months had the most Bookings. Summer vaccation can be the reason for the bookings.
        
 ### 3) Which type of food is mostly preferred by the guests?
+![Hotel Booking](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Hotel%20Booking%20Analysis/Screenshots/Powerbi2.jpg)
        
    #### Types of meal in hotels:
    - BB - (Bed and Breakfast)
@@ -100,16 +103,23 @@ This data set contains booking information for a city hotel and a resort hotel, 
  - HB- (Half Board) and SC- (Self Catering) are equally preferred.**
  
  ### 4) What is the total number of required_car_parking_spaces?
+ ![Hotel Booking](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Hotel%20Booking%20Analysis/Screenshots/Powerbi3.jpg)
  
- - Here is_cancelled = 0 means guest don't required parking and is_cancelled = 1 means parking required.
+ - Here is_required = 0 means guest don't required parking and is_requires = 1 means parking required.
         
    #### Observation
  - For city hotels and resort hotels majority of the guest did not reqired parking space but few required parking space.
 
 #### 5) Which Hotels has the most repeated guests?
+![Hotel Booking](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Hotel%20Booking%20Analysis/Screenshots/Powerbi1.jpg)
+
+   #### Observation
 - City Hotel has slightly more repeated guests than the Resort Hotels.
 
 #### 6) Which year has the most booking cancelled or most booking cancelled ?
+![Hotel Booking](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Hotel%20Booking%20Analysis/Screenshots/Powerbi1.jpg)
+
+   #### Observation
 - Year 2015 had the highest booking cancelled compare to guest who did not cancelled their bookings.
 - There was signigicant dropped in the cancellation of the booking in the year 2016 while the more booking was done which was highest among year 2015 and 2017.
 - In the year 2017 there was continously dropped in the booking cancellation however there slight declined in the booking which was not cancelled after the year 2016.
