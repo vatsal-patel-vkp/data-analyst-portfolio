@@ -84,7 +84,7 @@ This data set contains booking information for a city hotel and a resort hotel, 
 - Two types : City Hotel and Resort Hotel.
        
 ### 2) In which month has the highest bookings/total guest by hotel happened?
-![Hotel Booking] (https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Hotel%20Booking%20Analysis/Screenshots/Powerbi1.jpg)
+![Hotel Booking](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Hotel%20Booking%20Analysis/Screenshots/Powerbi1.jpg)
 - July and August months had the most Bookings. Summer vaccation can be the reason for the bookings.
        
 ### 3) Which type of food is mostly preferred by the guests?
