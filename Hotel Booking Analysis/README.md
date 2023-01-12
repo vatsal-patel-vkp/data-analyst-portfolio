@@ -87,12 +87,17 @@ This data set contains booking information for a city hotel and a resort hotel, 
        July and August months had the most Bookings. Summer vaccation can be the reason for the bookings.
        
 ### 3) Which type of food is mostly preferred by the guests?
-        
-      #### Types of meal in hotels:
-      **-BB** - (Bed and Breakfast)
-HB- (Half Board)
-B- (Full Board)
-SC- (Self Catering)
+       
+   #### Types of meal in hotels:
+   **-BB** - (Bed and Breakfast)
+   **-HB** - (Half Board)
+   **-FB** - (Full Board)
+   **SC/Undefined**- (Self Catering)
+   
+   #### Observation
+ **-So the most preferred meal type by the guests is BB( Bed and Breakfast)** 
+ **-HB- (Half Board) and SC- (Self Catering) are equally preferred.**
+
        
 
     
