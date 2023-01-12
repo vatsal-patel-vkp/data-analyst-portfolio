@@ -97,6 +97,13 @@ This data set contains booking information for a city hotel and a resort hotel, 
    #### Observation
  - So the most preferred meal type by the guests is BB( Bed and Breakfast)** 
  - HB- (Half Board) and SC- (Self Catering) are equally preferred.**
+ 
+ ### 4) What is the total number of required_car_parking_spaces?
+     - Here is_cancelled = 0 means guest don't required parking and is_cancelled = 1 means parking required.
+        
+   #### Observation
+   - For city hotels and resort hotels majority of the guest did not reqired parking space but few required parking space.
+   
 
        
 
