@@ -18,6 +18,7 @@ Tips: For data science projects with python, I would recomend you to install num
   - [Projects based on Healthcare Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#projects-based-on-healthcare-analysis)
   - [Projects based on Hotel Booking Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Hotel%20Booking%20Analysis)
   - [Projects Management](https://github.com/DevkumarPatel21/data-analyst-portfolio#project-management-project)
+- [Certificates](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Certificates)
 
   
 # Portfolio Projects
@@ -129,7 +130,10 @@ This data set contains booking information for a city hotel and a resort hotel, 
 
 ** Topic: ** Food delivery application – Takeout express  and detail [go to project](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Project_Management/Project)
 
- ** Microsoft project is needed to access the project. **
+ ** Microsoft project is needed to access the project. ** 
+ 
+# Certficates
+This are some of my certifiaction of skills which I have learned and demonstrated.
 
 
 
