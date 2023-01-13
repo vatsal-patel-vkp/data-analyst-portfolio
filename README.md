@@ -123,3 +123,10 @@ This data set contains booking information for a city hotel and a resort hotel, 
 
 **Result:** created an analytical dashboards that shows the trends of the wait time procedure across canada and necessary recommendation is given.
 
+# Project Management Project
+
+** Topic:** Food delivery application – Takeout express  and detail go to project
+
+
+
+
