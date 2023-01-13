@@ -125,29 +125,47 @@ This data set contains booking information for a city hotel and a resort hotel, 
 - In the year 2017 there was continously dropped in the booking cancellation however there slight declined in the booking which was not cancelled after the year 2016.
 
 #### 7) Which Market Segment has the higest cancellation rate?
-
-    #### Observation
+![Hotel Booking](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Hotel%20Booking%20Analysis/Screenshots/Powerbi6.jpg)
+   #### Observation
   - 'Groups' and 'Online T/A' has the highest cancellation in both type of cities
   In order to reduce the booking cancellations hotels need to set the refundable/ no refundable and deposit policies policies
   
 #### 8) Which Country has highest booking which was not cancelled?
+![Hotel Booking](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Hotel%20Booking%20Analysis/Screenshots/Powerbi7.jpg)
 
-    #### Observation
+   #### Observation
 - Portugal has highest non-cancellation booking compare to other countries.
 
   
 #### 9) Which Customer segment has highest booking?
-
-    #### Observation
+![Hotel Booking](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Hotel%20Booking%20Analysis/Screenshots/Powerbi10.jpg)
+   #### Observation
     - Transient and Transient Party both have almost equal bookings in the hotel with 49.31% and 47.53% respectively.
   
 #### 10) Which months of the years in the span of three years like 2015, 2016 and 2017 have the number of stays in week nights and weekend night ?
-
-     #### Observation
+![Hotel Booking](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Hotel%20Booking%20Analysis/Screenshots/Powerbi11.jpg)
+    
+   #### Observation
      - From the graph we can say number of stays in week nights was more from the month june then it continiously increasing after two months but in the last month there was dropped in the number of stays in nights while weekend night stays was not more prefer by the customer there may be price difference because in weeks the actual price may be much lower compared to price in the weekend night.
 
 
 #### Dashboard 1 
+![Hotel Booking](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Hotel%20Booking%20Analysis/Screenshots/Powerbi8.jpg)
+
+#### Dashboard 2
+![Hotel Booking](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Hotel%20Booking%20Analysis/Screenshots/Powerbi9.jpg)
+
+#### Conclusion
+
+- City hotels are the most preferred hotel type by the guests. We can say City hotel is the busiest hotel.
+- Most of the customers do not require car parking spaces.
+- BB( Bed & Breakfast) is the most preferred type of meal by the guests.
+- Maximum number of guests were from Portugal, i.e. more than 25000 guests.
+- Optimal stay in both the type hotel is less than 7 days. Usually people stay for a week.
+- Majority of the  bookings were made through TA/TO (travel agents/Tour operators).
+- Most of the customers do not require car parking spaces.
+
+
 
 
    
