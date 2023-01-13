@@ -18,7 +18,7 @@ Tips: For data science projects with python, I would recomend you to install num
   - [Projects based on Healthcare Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#projects-based-on-healthcare-analysis)
   - [Projects based on Hotel Booking Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Hotel%20Booking%20Analysis)
   - [Projects Management](https://github.com/DevkumarPatel21/data-analyst-portfolio#project-management-project)
-- [Certificates](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Certificates)
+- [Certificates](https://github.com/DevkumarPatel21/data-analyst-portfolio#certficates)
 
   
 # Portfolio Projects
