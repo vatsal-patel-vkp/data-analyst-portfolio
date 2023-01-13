@@ -17,6 +17,7 @@ Tips: For data science projects with python, I would recomend you to install num
     - [Amazon Phone Review Sentimental Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#amazon-phone-review-sentimental-analysis)
   - [Projects based on Healthcare Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#projects-based-on-healthcare-analysis)
   - [Projects based on Hotel Booking Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Hotel%20Booking%20Analysis)
+  - [Projects Management](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Hotel%20Booking%20Analysis)
   
 # Portfolio Projects
 I will quickly describe each data analytics project in this part, along with the technology stack that was utilised to resolve the issues.
@@ -125,7 +126,9 @@ This data set contains booking information for a city hotel and a resort hotel, 
 
 # Project Management Project
 
-** Topic:** Food delivery application – Takeout express  and detail go to project
+** Topic: ** Food delivery application – Takeout express  and detail [go to project](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Project_Management/Project)
+
+ ** Microsoft project is needed to access the project. **
 
 
 
