@@ -124,8 +124,32 @@ This data set contains booking information for a city hotel and a resort hotel, 
 - There was signigicant dropped in the cancellation of the booking in the year 2016 while the more booking was done which was highest among year 2015 and 2017.
 - In the year 2017 there was continously dropped in the booking cancellation however there slight declined in the booking which was not cancelled after the year 2016.
 
+#### 7) Which Market Segment has the higest cancellation rate?
+
+    #### Observation
+  - 'Groups' and 'Online T/A' has the highest cancellation in both type of cities
+  In order to reduce the booking cancellations hotels need to set the refundable/ no refundable and deposit policies policies
+  
+#### 8) Which Country has highest booking which was not cancelled?
+
+    #### Observation
+- Portugal has highest non-cancellation booking compare to other countries.
+
+  
+#### 9) Which Customer segment has highest booking?
+
+    #### Observation
+    - Transient and Transient Party both have almost equal bookings in the hotel with 49.31% and 47.53% respectively.
+  
+#### 10) Which months of the years in the span of three years like 2015, 2016 and 2017 have the number of stays in week nights and weekend night ?
+
+     #### Observation
+     - From the graph we can say number of stays in week nights was more from the month june then it continiously increasing after two months but in the last month there was dropped in the number of stays in nights while weekend night stays was not more prefer by the customer there may be price difference because in weeks the actual price may be much lower compared to price in the weekend night.
+
+
+#### Dashboard 1 
+
+
    
 
        
-
-    
