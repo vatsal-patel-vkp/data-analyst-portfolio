@@ -1,4 +1,4 @@
-# Hotel Bookiing Analysis
+# Hotel Booking Analysis
 
 Have you ever thought about the best time of year to book a hotel room? Or what is the best length of stay to get the best daily rate? What if you could predict whether or not a hotel would receive an unusually high number of special requests? This hotel booking dataset can assist you in answering those questions!
 This data set contains booking information for a city hotel and a resort hotel, including when the booking was made, length of stay, number of adults, children, and/or babies, and number of available parking spaces, among other things. The data contains no personally identifiable information.
